@@ -24,9 +24,9 @@ View [demo](https://www.youtube.com/watch?v=Wuh7NIZ96jA)
 *   Data Access Layer built with the Repository and Unit of Work Pattern
 *   Code First Database
 *   A RESTful API Design
-*   Angular Directives Quidance
-*   Angular Pipes Quidance
-*   Angular Animations Quidance
+*   Angular Directives Guidance
+*   Angular Pipes Guidance
+*   Angular Animations Guidance
 *   Angular Services
 *   Dialog and Notification Services
 *   Configuration Page and Service
